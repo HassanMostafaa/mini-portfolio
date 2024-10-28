@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply antialiased;
+  }
+}
+
+@layer utilities {
+  .bg-gradient-blur {
+    background: radial-gradient(circle at top center, rgba(59, 130, 246, 0.1), transparent 50%);
+  }
+}
