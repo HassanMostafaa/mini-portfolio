@@ -7,7 +7,7 @@ function App() {
         {/* Hero Section */}
         <section className="space-y-6">
           <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-blue-400 to-violet-400 text-transparent bg-clip-text">
-            Hassan Mostafa
+            Hassan Mohamed
           </h1>
           <p className="text-xl text-zinc-400">
             Full Stack Developer
